@@ -1,0 +1,3 @@
+<h1>Sistema Ejemplo JUego</h1>
+
+estado de proyecto...
